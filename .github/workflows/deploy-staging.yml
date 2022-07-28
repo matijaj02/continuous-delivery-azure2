@@ -8,7 +8,7 @@ env:
   IMAGE_REGISTRY_URL: ghcr.io
   DOCKER_IMAGE_NAME: matijaj02-azure-ttt
   AZURE_WEBAPP_NAME: matijaj02-ttt-app
-  ###############################################
+  ###########################################
 
 jobs:
   build:
